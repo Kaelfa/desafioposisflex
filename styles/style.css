@@ -1,12 +1,13 @@
+* {
+    margin: 10px;
+}
+
 img {
     width: 200px;
 }
 
 .fantasma {
     width: 100px;
-}
-body{
-    gap: 20px;
 }
 
 .itens-extremidade {
@@ -42,7 +43,6 @@ body{
 
 .amarelo {
     background-color: yellow;
-    margin: 10px;
 }
 
 .rosa {
