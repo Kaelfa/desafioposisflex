@@ -1,0 +1,62 @@
+img {
+    width: 200px;
+}
+
+.fantasma {
+    width: 100px;
+}
+body{
+    gap: 20px;
+}
+
+.itens-extremidade {
+    display: flex;
+    justify-content: space-between;
+}
+
+.itens-espacado {
+    display: flex;
+    justify-content: space-around;
+}
+
+.itens-centro {
+    display: flex;
+    justify-content: center;
+}
+
+.itens-lista {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.itens-fim {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.itens-comeco {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.amarelo {
+    background-color: yellow;
+    margin: 10px;
+}
+
+.rosa {
+    background-color: #E7B6FF;
+}
+
+.aqua {
+    background-color: aqua;
+}
+
+.alto {
+    height: 960px;
+}
+
+.largo {
+    width: 960px;
+}
